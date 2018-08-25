@@ -1,9 +1,14 @@
 package com.org.learningMaven;
 
-public class FirstProgramTest {
-	public static void main(String args[])
-	{
-		System.out.println("Basic Program");
-	}
+import org.testng.annotations.Test;
+
+public class FirstProgramTest
+{
+@Test
+public void Login()
+{
+	System.out.println("Basic program");
+}
+
 
 }
