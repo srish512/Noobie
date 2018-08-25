@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2018-08-23T16:46:29Z" finished-at="2018-08-23T16:46:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2018-08-23T16:46:29Z" finished-at="2018-08-23T16:46:29Z">
+      <class name="com.org.learningMaven.HelloWorldTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.org.learningMaven.HelloWorldTest@224edc67]" name="Login" duration-ms="11" started-at="2018-08-23T16:46:29Z" finished-at="2018-08-23T16:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login1()[pri:0, instance:com.org.learningMaven.HelloWorldTest@224edc67]" name="Login1" duration-ms="2" started-at="2018-08-23T16:46:29Z" finished-at="2018-08-23T16:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+      </class> <!-- com.org.learningMaven.HelloWorldTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
