@@ -1,9 +1,17 @@
 package com.org.learningMaven;
 
-public class Normal {
+import org.testng.annotations.Test;
 
-	public static void main(String args[])
-	{
-		System.out.println("Normal test");
-	}
+public class NormalTest
+{
+@Test
+public void Login()
+{
+	System.out.println("second test 1");
+}
+@Test
+public void Login1()
+{
+	System.out.println("second test 2");
+}
 }
