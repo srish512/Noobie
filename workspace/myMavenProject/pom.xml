@@ -19,6 +19,7 @@
     
    
         </dependencies>
+
 <build> 
     <sourceDirectory>flockWebclient</sourceDirectory> 
     <resources> <resource>
